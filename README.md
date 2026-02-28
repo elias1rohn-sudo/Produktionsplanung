@@ -1,4 +1,4 @@
-# Produktionsplanung-Lineare-Programmierung
+# Produktionsplanung (Lineare Programmierung)
 
 Dieses Mini-Projekt modelliert ein Produktionsplanungsproblem als MILP.
 Ziel ist die Bestimmung optimaler Produktionsmengen unter begrenzten Ressourcen. (Implementierung in Python mit PuLP)
